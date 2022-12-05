@@ -1,0 +1,25 @@
+{
+  "name": "hw-seven",
+  "version": "1.0.0",
+  "description": "Using advanced JSON",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server",
+    "firebase serve": "firebase serve --only hosting",
+    "firebase deploy": "firebase deploy --except functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abatgali/n315-hw-7.git"
+  },
+  "author": "Anant Batgali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abatgali/n315-hw-7/"
+  },
+  "homepage": "https://github.com/abatgali/n315-hw-7"
+}
